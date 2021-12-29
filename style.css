@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #7bdaf3;
+  background-color: #ffd3f0;
   font-family: 'Poppins', sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -17,7 +17,7 @@ body {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background-color: #9ec862;
+  background-color: #fca9a9;
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -39,7 +39,7 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: #b9e0ff;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
